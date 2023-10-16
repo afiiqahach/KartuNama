@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kartu Nama</string>
+
+    <string name="FullName">Dwi Afiqah Achmad</string>
+    <string name="Title">Student</string>
+    <string name="Telp">+62 858 2522 2612</string>
+    <string name="Link">afiiqahach</string>
+    <string name="Email">afiqahdwi1@gmail.com</string>
+
+</resources>
